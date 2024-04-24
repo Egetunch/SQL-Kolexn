@@ -17,7 +17,7 @@ This project welcomes suggestions for enhancements. If you have an idea, open an
 
     Use a clear and descriptive title to identify the suggestion.
     Provide a detailed description of the proposed feature or enhancement.
-    Explain why this enhancement would be useful to most OptiWork SQL users.
+    Explain why this enhancement would be useful to most SQL-Kolexn users.
     Include any specific examples or mockups, if applicable.
 
 Pull Requests
